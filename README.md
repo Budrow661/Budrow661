@@ -1,16 +1,28 @@
-## Hi there 👋
+# Приветствую! 👋
 
-<!--
-**Budrow661/Budrow661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Михаил, и я пока учусь . Добро пожаловать на мой GitHub профиль!
 
-Here are some ideas to get you started:
+## 🔧 Мои навыки
+- Языки программирования: Python
+- Веб-разработка: HTML, CSS
+- Работа с данными: SQL, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 Статистика GitHub
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Budrow661&show_icons=true&theme=radical)
+
+## 📫 Как со мной связаться
+- Email: [mrmixa.02@mail.ru](mailto:mrmixa.02@mail.ru)
+
+## 🌟 Проекты
+- [Проект 1](https://github.com/ваш_username/проект_1): Краткое описание проекта.
+- [Проект 2](https://github.com/ваш_username/проект_2): Краткое описание проекта.
+
+## 💡 Интересы
+- Искусственный интеллект
+- Разработка веб-приложений
+
+## 📝 Блог
+ Скоро появяться 
+
+Спасибо, что заглянули! 😊
